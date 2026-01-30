@@ -1,10 +1,14 @@
 Singlish to Sinhala Translation System - Automated Testing
+
 This project contains automated test cases for the Singlish to Sinhala translation system available at https://www.swifttranslator.com/
 
 Project Overview
+
 This test automation project uses Playwright to verify the accuracy and functionality of the Singlish to Sinhala translation system. The tests cover:
 
-24 Positive Functional Test Cases: Scenarios where the system correctly converts Singlish to Sinhala 10 Negative Functional Test Cases: Scenarios where the system fails or behaves incorrectly 1 Positive UI Test Case: Real-time output update behavior
+24 Positive Functional Test Cases: Scenarios where the system correctly converts Singlish to Sinhala 
+10 Negative Functional Test Cases: Scenarios where the system fails or behaves incorrectly 
+1 Positive UI Test Case: Real-time output update behavior
 
 Prerequisites
 Before running the tests, ensure you have the following installed: Node.js (version 16 or higher)
